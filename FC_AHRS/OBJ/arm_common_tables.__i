@@ -1,0 +1,5 @@
+-c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork -I..\SYSTEM\system -I..\HARDWARE\LCDDRIVER -I..\SYSTEM\delay -I..\HARDWARE\inc -I..\HARDWARE -I..\HARDWARE\I2C -I..\HARDWARE\MPU6050 -I..\HARDWARE\HMC5883 -I..\COMMON 
+-I C:\Keil\ARM\RV31\INC 
+-I C:\Keil\ARM\CMSIS\Include 
+-I C:\Keil\ARM\Inc\ST\STM32F4xx 
+-D__FPU_PRESENT="1" -D__FPU_USED="1" -DARM_MATH_CM4 -D__CC_ARM -o "..\OBJ\arm_common_tables.o" --omf_browse "..\OBJ\arm_common_tables.crf" --depend "..\OBJ\arm_common_tables.d" "..\COMMON\arm_common_tables.c"

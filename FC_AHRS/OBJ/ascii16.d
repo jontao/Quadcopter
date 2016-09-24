@@ -1,0 +1,2 @@
+..\obj\ascii16.o: ..\HARDWARE\LCDDRIVER\ASCII16.c
+..\obj\ascii16.o: ..\HARDWARE\LCDDRIVER\ASCII16.h

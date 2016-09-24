@@ -1,0 +1,9 @@
+..\OBJ\sram.o: ..\HARDWARE\SRAM\sram.c
+..\OBJ\sram.o: ..\HARDWARE\SRAM\sram.h
+..\OBJ\sram.o: C:\Keil\ARM\Inc\ST\STM32F4xx\stm32f4xx.h
+..\OBJ\sram.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+..\OBJ\sram.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\OBJ\sram.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+..\OBJ\sram.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+..\OBJ\sram.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+..\OBJ\sram.o: C:\Keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h

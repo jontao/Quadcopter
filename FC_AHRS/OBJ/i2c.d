@@ -1,0 +1,12 @@
+..\obj\i2c.o: ..\HARDWARE\I2C\I2C.c
+..\obj\i2c.o: ..\SYSTEM\delay\delay.h
+..\obj\i2c.o: ..\SYSTEM\system\sys.h
+..\obj\i2c.o: ..\USER\stm32f4xx.h
+..\obj\i2c.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4.h
+..\obj\i2c.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\i2c.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h
+..\obj\i2c.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h
+..\obj\i2c.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4_simd.h
+..\obj\i2c.o: ..\USER\system_stm32f4xx.h
+..\obj\i2c.o: ..\HARDWARE\I2C\I2C.h
+..\obj\i2c.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h

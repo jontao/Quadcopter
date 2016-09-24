@@ -1,0 +1,13 @@
+..\obj\rm68042.o: ..\HARDWARE\LCDDRIVER\rm68042.c
+..\obj\rm68042.o: ..\HARDWARE\LCDDRIVER\rm68042.h
+..\obj\rm68042.o: ..\SYSTEM\system\sys.h
+..\obj\rm68042.o: ..\USER\stm32f4xx.h
+..\obj\rm68042.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4.h
+..\obj\rm68042.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\rm68042.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h
+..\obj\rm68042.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h
+..\obj\rm68042.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4_simd.h
+..\obj\rm68042.o: ..\USER\system_stm32f4xx.h
+..\obj\rm68042.o: ..\SYSTEM\delay\delay.h
+..\obj\rm68042.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+..\obj\rm68042.o: ..\HARDWARE\LCDDRIVER\ascii16.h

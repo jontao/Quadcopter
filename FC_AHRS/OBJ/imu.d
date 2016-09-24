@@ -1,0 +1,15 @@
+..\obj\imu.o: ..\arithmetic\IMU.c
+..\obj\imu.o: ..\arithmetic\imu.h
+..\obj\imu.o: ..\USER\stm32f4xx.h
+..\obj\imu.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4.h
+..\obj\imu.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\imu.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h
+..\obj\imu.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h
+..\obj\imu.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4_simd.h
+..\obj\imu.o: ..\USER\system_stm32f4xx.h
+..\obj\imu.o: ..\HARDWARE\MPU6050\MPU6050.h
+..\obj\imu.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\math.h
+..\obj\imu.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\imu.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+..\obj\imu.o: ..\SYSTEM\system\sys.h
+..\obj\imu.o: ..\HARDWARE\I2C\I2C.h

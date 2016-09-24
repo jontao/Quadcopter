@@ -1,0 +1,16 @@
+..\obj\mpu6050.o: ..\HARDWARE\MPU6050\mpu6050.c
+..\obj\mpu6050.o: ..\HARDWARE\MPU6050\mpu6050.h
+..\obj\mpu6050.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\math.h
+..\obj\mpu6050.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\mpu6050.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+..\obj\mpu6050.o: ..\SYSTEM\system\sys.h
+..\obj\mpu6050.o: ..\USER\stm32f4xx.h
+..\obj\mpu6050.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4.h
+..\obj\mpu6050.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\mpu6050.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h
+..\obj\mpu6050.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h
+..\obj\mpu6050.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4_simd.h
+..\obj\mpu6050.o: ..\USER\system_stm32f4xx.h
+..\obj\mpu6050.o: ..\HARDWARE\I2C\I2C.h
+..\obj\mpu6050.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+..\obj\mpu6050.o: ..\SYSTEM\delay\delay.h

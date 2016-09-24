@@ -1,0 +1,17 @@
+..\obj\hmc5883l.o: ..\HARDWARE\HMC5883\HMC5883L.c
+..\obj\hmc5883l.o: ..\SYSTEM\delay\delay.h
+..\obj\hmc5883l.o: ..\SYSTEM\system\sys.h
+..\obj\hmc5883l.o: ..\USER\stm32f4xx.h
+..\obj\hmc5883l.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4.h
+..\obj\hmc5883l.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\hmc5883l.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h
+..\obj\hmc5883l.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h
+..\obj\hmc5883l.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4_simd.h
+..\obj\hmc5883l.o: ..\USER\system_stm32f4xx.h
+..\obj\hmc5883l.o: ..\HARDWARE\HMC5883\hmc5883l.h
+..\obj\hmc5883l.o: ..\HARDWARE\I2C\I2C.h
+..\obj\hmc5883l.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+..\obj\hmc5883l.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\math.h
+..\obj\hmc5883l.o: ..\HARDWARE\MPU6050\mpu6050.h
+..\obj\hmc5883l.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\hmc5883l.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h

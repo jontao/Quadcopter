@@ -1,0 +1,15 @@
+..\obj\filter.o: ..\arithmetic\Filter.c
+..\obj\filter.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\math.h
+..\obj\filter.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\filter.o: ..\HARDWARE\MPU6050\mpu6050.h
+..\obj\filter.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+..\obj\filter.o: ..\SYSTEM\system\sys.h
+..\obj\filter.o: ..\USER\stm32f4xx.h
+..\obj\filter.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4.h
+..\obj\filter.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\filter.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h
+..\obj\filter.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h
+..\obj\filter.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4_simd.h
+..\obj\filter.o: ..\USER\system_stm32f4xx.h
+..\obj\filter.o: ..\HARDWARE\I2C\I2C.h
+..\obj\filter.o: ..\arithmetic\Filter.h

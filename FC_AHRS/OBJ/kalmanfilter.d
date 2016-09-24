@@ -1,0 +1,14 @@
+..\obj\kalmanfilter.o: ..\arithmetic\KalmanFilter.c
+..\obj\kalmanfilter.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h
+..\obj\kalmanfilter.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\kalmanfilter.o: ..\HARDWARE\MPU6050\mpu6050.h
+..\obj\kalmanfilter.o: C:\Keil\ARM\RV31\INC\string.h
+..\obj\kalmanfilter.o: ..\SYSTEM\system\sys.h
+..\obj\kalmanfilter.o: C:\Keil\ARM\Inc\ST\STM32F4xx\stm32f4xx.h
+..\obj\kalmanfilter.o: C:\Keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4.h
+..\obj\kalmanfilter.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\kalmanfilter.o: C:\Keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h
+..\obj\kalmanfilter.o: C:\Keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h
+..\obj\kalmanfilter.o: C:\Keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4_simd.h
+..\obj\kalmanfilter.o: C:\Keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h
+..\obj\kalmanfilter.o: ..\HARDWARE\I2C\I2C.h

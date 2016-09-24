@@ -1,0 +1,5 @@
+-c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork -I..\SYSTEM\system -I..\SYSTEM\delay -I..\HARDWARE\inc -I..\HARDWARE -I..\HARDWARE\I2C -I..\HARDWARE\MPU6050 -I..\HARDWARE\HMC5883 -I..\COMMON -I..\HARDWARE\LED -I..\HARDWARE\TIMER -I..\HARDWARE\EXTI -I..\USER -I..\HARDWARE\POWER 
+-I C:\Keil\ARM\RV31\INC 
+-I C:\Keil\ARM\CMSIS\Include 
+-I C:\Keil\ARM\Inc\ST\STM32F4xx 
+-D__TARGET_FPU_VFP_SINGLE -D__TARGET_FPU_SOFTVFP -o "..\OBJ\jonta_fc.o" --omf_browse "..\OBJ\jonta_fc.crf" --depend "..\OBJ\jonta_fc.d" "jonta_fc.c"

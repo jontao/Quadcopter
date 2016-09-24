@@ -1,0 +1,14 @@
+..\obj\timer.o: ..\HARDWARE\TIMER\timer.c
+..\obj\timer.o: ..\HARDWARE\TIMER\timer.h
+..\obj\timer.o: ..\SYSTEM\system\sys.h
+..\obj\timer.o: ..\USER\stm32f4xx.h
+..\obj\timer.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4.h
+..\obj\timer.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\timer.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h
+..\obj\timer.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h
+..\obj\timer.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4_simd.h
+..\obj\timer.o: ..\USER\system_stm32f4xx.h
+..\obj\timer.o: ..\HARDWARE\LED\led.h
+..\obj\timer.o: ..\HARDWARE\EXTI\exti.h
+..\obj\timer.o: ..\HARDWARE\I2C\I2C.h
+..\obj\timer.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
